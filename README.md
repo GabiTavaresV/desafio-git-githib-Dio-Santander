@@ -1,6 +1,3 @@
-# Desafio-git-githib-Dio-Santander
-Criação do repositório para compartilhamento do progresso do Bootcamp DIO-Santander
-
 
 <p align="center">
   <h2 align="center">Desafio-git-githib-Dio-Santander</h2>
